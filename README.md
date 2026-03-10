@@ -15,7 +15,7 @@ Database: mongodb
 Other Tools: WebSocket or real-time communication tools (if any)
 ⚡ Installation
 Clone the repository
-git clone https://github.com/yourusername/mosseb-ai.git
+git clone https://github.com//mosseb-ai.gbiruk123it
 cd mosseb-ai
 Install backend dependencies
 Bash
@@ -32,7 +32,7 @@ Copy code
 # Backend example
 PORT=5000
 DB_URI=your_database_uri
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=notpulic_gemini_api_key
 LLM_API_KEY=your_llm_api_key
 
 # Frontend example
